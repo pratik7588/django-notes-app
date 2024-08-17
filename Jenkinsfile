@@ -11,7 +11,7 @@ pipeline {
         stage("Clone Code"){
             steps{
                 git url: "https://github.com/LondheShubham153/django-notes-app.git", branch: "main"
-                echo "Aaj hai boss"
+                echo "Aaj hai post boss"
             }
         }
         stage("Build & Test"){
