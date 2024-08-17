@@ -1,4 +1,4 @@
-# Simple Notes App for class is important
+# Simple Notes App for class.
 This is a simple notes app built with React and Django.
 
 ## Requirements
